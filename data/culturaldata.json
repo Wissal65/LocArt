@@ -1,0 +1,820 @@
+{
+  "culinaryHotspots": [
+    {
+      "id": 1,
+      "location": {
+        "latitude": 34.022042,
+        "longitude": -6.832075
+      },
+      "title": "Le Dhow Restaurant",
+      "description": "Le Dhow Restaurant is a unique dining venue set aboard a traditional Moroccan dhow boat on the Bouregreg River. It offers a memorable culinary experience with a menu featuring Moroccan and international cuisine, complemented by scenic views of Rabat's waterfront."
+    },
+    {
+      "id": 2,
+      "location": {
+        "latitude": 34.023672,
+        "longitude": -6.833912
+      },
+      "title": "Café Maure",
+      "description": "Café Maure is a charming café located within the Kasbah of the Udayas in Rabat. It serves traditional Moroccan tea, coffee, and pastries in a relaxed atmosphere overlooking the Kasbah's gardens and the Atlantic Ocean."
+    },
+    {
+      "id": 3,
+      "location": {
+        "latitude": 34.022901,
+        "longitude": -6.833141
+      },
+      "title": "Al Marsa",
+      "description": "Al Marsa is a seafood restaurant situated along the Rabat waterfront. It specializes in fresh seafood dishes, including grilled fish, seafood tagines, and Moroccan mezze, offering diners a taste of the Mediterranean flavors in a scenic setting."
+    },
+    {
+      "id": 4,
+      "location": {
+        "latitude": 34.027432,
+        "longitude": -6.836239
+      },
+      "title": "Le Ziryab",
+      "description": "Le Ziryab is a rooftop restaurant located in the heart of Rabat's medina. It offers panoramic views of the city and serves traditional Moroccan cuisine with a modern twist, featuring tagines, couscous, and grilled meats, accompanied by live music performances."
+    },
+    {
+      "id": 5,
+      "location": {
+        "latitude": 34.019487,
+        "longitude": -6.833735
+      },
+      "title": "Le Grand Comptoir",
+      "description": "Le Grand Comptoir is a French-inspired brasserie located near Rabat's central market. It offers a diverse menu of French and Moroccan dishes, including crepes, salads, sandwiches, and pastries, in a casual yet elegant setting."
+    },
+    {
+      "id": 6,
+      "location": {
+        "latitude": 34.020363,
+        "longitude": -6.834142
+      },
+      "title": "Le Riad",
+      "description": "Le Riad is a traditional Moroccan restaurant nestled within the historic medina of Rabat. It features a courtyard dining area surrounded by lush gardens and serves authentic Moroccan cuisine, including tagines, couscous, and pastilla, in a charming and romantic atmosphere."
+    },
+    {
+      "id": 7,
+      "location": {
+        "latitude": 34.022326,
+        "longitude": -6.831881
+      },
+      "title": "La Sqala",
+      "description": "La Sqala is a renowned restaurant housed in a historic fortress near Rabat's Oudayas Kasbah. It offers a menu of Moroccan specialties, such as mechoui lamb, pastilla, and harira soup, served in a rustic setting with panoramic views of the Bouregreg River."
+    },
+    {
+      "id": 8,
+      "location": {
+        "latitude": 34.025828,
+        "longitude": -6.832321
+      },
+      "title": "Dar Naji",
+      "description": "Dar Naji is a family-owned restaurant located in Rabat's medina. It specializes in traditional Moroccan home-cooked meals, including tagines, couscous, and grilled meats, served in a cozy and welcoming atmosphere reminiscent of dining in a Moroccan home."
+    },
+    {
+      "id": 9,
+      "location": {
+        "latitude": 34.024165,
+        "longitude": -6.832437
+      },
+      "title": "Le Petit Beur",
+      "description": "Le Petit Beur is a popular café and bakery situated in Rabat's city center. It offers a variety of pastries, sandwiches, and desserts, along with Moroccan tea and coffee, making it a favorite spot for locals and visitors alike to enjoy a casual meal or snack."
+    },
+    {
+      "id": 10,
+      "location": {
+        "latitude": 34.026556,
+        "longitude": -6.833943
+      },
+      "title": "Le Dinarjat",
+      "description": "Le Dinarjat is a traditional Moroccan restaurant located in Rabat's Agdal district. It serves authentic Moroccan cuisine, including tagines, couscous, and pastilla, in a cozy and inviting atmosphere decorated with Moroccan handicrafts and artwork."
+    },
+    {
+      "id": 11,
+      "location": {
+        "latitude": 34.023123,
+        "longitude": -6.837521
+      },
+      "title": "Le Petit Prince Café",
+      "description": "Le Petit Prince Café is a charming café located in the heart of Rabat's medina. It offers a selection of coffees, teas, and pastries, as well as light breakfast and lunch options, in a cozy and intimate setting."
+    },
+    {
+      "id": 12,
+      "location": {
+        "latitude": 34.025962,
+        "longitude": -6.834771
+      },
+      "title": "Café de France",
+      "description": "Café de France is a historic café and restaurant situated on Avenue Mohammed V in Rabat. It is known for its traditional Moroccan cuisine, including tagines, couscous, and pastries, served in a classic French-style brasserie setting."
+    },
+    {
+      "id": 13,
+      "location": {
+        "latitude": 34.023817,
+        "longitude": -6.834852
+      },
+      "title": "Dar Rbatia",
+      "description": "Dar Rbatia is a traditional Moroccan restaurant located in Rabat's medina. It offers a menu of authentic Moroccan dishes, including tagines, couscous, and grilled meats, in a charming courtyard setting adorned with Moroccan decor."
+    },
+    {
+      "id": 14,
+      "location": {
+        "latitude": 34.027412,
+        "longitude": -6.833252
+      },
+      "title": "Café des Epices",
+      "description": "Café des Epices is a cozy café and restaurant located near Rabat's central market. It offers a variety of Moroccan and international dishes, including salads, sandwiches, and pasta, as well as a selection of teas, coffees, and fresh juices."
+    },
+    {
+      "id": 15,
+      "location": {
+        "latitude": 34.021239,
+        "longitude": -6.835762
+      },
+      "title": "La Patisserie des Princes",
+      "description": "La Patisserie des Princes is a pastry shop and café located in Rabat's medina. It specializes in French pastries, cakes, and desserts, as well as a selection of coffees, teas, and hot chocolates, served in a cozy and inviting atmosphere."
+    },
+    {
+      "id": 16,
+      "location": {
+        "latitude": 34.024968,
+        "longitude": -6.834482
+      },
+      "title": "Café Ziryab",
+      "description": "Café Ziryab is a cultural café and restaurant situated in Rabat's medina. It offers a fusion of Moroccan and Mediterranean cuisine, featuring dishes such as couscous, tajines, and mezze platters, as well as live music performances and cultural events."
+    },
+    {
+      "id": 17,
+      "location": {
+        "latitude": 34.026542,
+        "longitude": -6.833942
+      },
+      "title": "Dar Naji",
+      "description": "Dar Naji is a traditional Moroccan restaurant located in Rabat's medina. It specializes in Moroccan cuisine, including tagines, couscous, and pastries, served in a historic riad setting with ornate tilework and traditional furnishings."
+    },
+    {
+      "id": 18,
+      "location": {
+        "latitude": 34.021728,
+        "longitude": -6.835238
+      },
+      "title": "Café du Maure",
+      "description": "Café du Maure is a traditional Moroccan café located in the Kasbah of the Udayas in Rabat. It offers a variety of Moroccan teas, coffees, and pastries, as well as scenic views of the Kasbah and the Bouregreg River."
+    },
+    {
+      "id": 19,
+      "location": {
+        "latitude": 34.027298,
+        "longitude": -6.832608
+      },
+      "title": "La Taverne du Dauphin",
+      "description": "La Taverne du Dauphin is a seafood restaurant located near Rabat's marina. It specializes in fresh seafood dishes, including grilled fish, shellfish, and seafood paella, served in a casual yet elegant dining space with views of the harbor."
+    },
+    {
+      "id": 20,
+      "location": {
+        "latitude": 34.022692,
+        "longitude": -6.832983
+      },
+      "title": "Café Bousafsaf",
+      "description": "Café Bousafsaf is a cozy café located in Rabat's medina. It serves a variety of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as traditional Moroccan pastries and snacks, in a relaxed and friendly atmosphere."
+    },
+    {
+      "id": 21,
+      "location": {
+        "latitude": 34.024573,
+        "longitude": -6.834623
+      },
+      "title": "Le Jardin Majorelle",
+      "description": "Le Jardin Majorelle is a charming garden café located in Rabat's medina. It offers a tranquil oasis amidst the hustle and bustle of the city, with lush greenery, colorful flowers, and shaded seating areas, perfect for enjoying a leisurely meal or a refreshing drink."
+    },
+    {
+      "id": 22,
+      "location": {
+        "latitude": 34.025198,
+        "longitude": -6.833741
+      },
+      "title": "Café L'Horloge",
+      "description": "Café L'Horloge is a traditional Moroccan café located near Rabat's central market. It serves a variety of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as Moroccan pastries and snacks, in a lively and bustling atmosphere."
+    },
+    {
+      "id": 23,
+      "location": {
+        "latitude": 34.021951,
+        "longitude": -6.835123
+      },
+      "title": "Dar Nakhla",
+      "description": "Dar Nakhla is a traditional Moroccan restaurant located in the Kasbah of the Udayas in Rabat. It offers a menu of classic Moroccan dishes, including tagines, couscous, and pastries, served in a historic setting with panoramic views of the city and the sea."
+    },
+    {
+      "id": 24,
+      "location": {
+        "latitude": 34.025628,
+        "longitude": -6.833218
+      },
+      "title": "Café Bab Laalou",
+      "description": "Café Bab Laalou is a popular café located near Rabat's central market. It serves a variety of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as Moroccan pastries and snacks, in a vibrant and colorful setting."
+    },
+    {
+      "id": 25,
+      "location": {
+        "latitude": 34.026315,
+        "longitude": -6.833617
+      },
+      "title": "Le Cigalon",
+      "description": "Le Cigalon is a French-inspired café and bakery located in Rabat's Agdal district. It offers a selection of French pastries, breads, and desserts, as well as a variety of coffees, teas, and freshly squeezed juices, in a cozy and welcoming atmosphere."
+    },
+    {
+      "id": 26,
+      "location": {
+        "latitude": 34.025044,
+        "longitude": -6.832852
+      },
+      "title": "Café Al Amal",
+      "description": "Café Al Amal is a charming café located near Rabat's central market. It serves a variety of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as Moroccan pastries and snacks, in a relaxed and inviting atmosphere."
+    },
+    {
+      "id": 27,
+      "location": {
+        "latitude": 34.024001,
+        "longitude": -6.835552
+      },
+      "title": "Café 7ème Art",
+      "description": "Café 7ème Art is a cozy café located in Rabat's medina. It offers a selection of hot and cold beverages, including coffee, tea, and milkshakes, as well as a variety of pastries, sandwiches, and salads, in a relaxed and artistic ambiance."
+    },
+    {
+      "id": 28,
+      "location": {
+        "latitude": 34.022327,
+        "longitude": -6.832073
+      },
+      "title": "Café Terrasse des Oudayas",
+      "description": "Café Terrasse des Oudayas is a rooftop café located in the Kasbah of the Udayas in Rabat. It offers panoramic views of the city and the Bouregreg River, along with a selection of Moroccan teas, coffees, and pastries, making it an ideal spot for relaxation and contemplation."
+    },
+    {
+      "id": 29,
+      "location": {
+        "latitude": 34.026978,
+        "longitude": -6.833882
+      },
+      "title": "Café Chellah",
+      "description": "Café Chellah is a cozy café located near Rabat's Chellah necropolis. It offers a selection of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as Moroccan pastries and snacks, in a serene and tranquil setting."
+    },
+    {
+      "id": 30,
+      "location": {
+        "latitude": 34.024239,
+        "longitude": -6.834113
+      },
+      "title": "Café Andalus",
+      "description": "Café Andalus is a traditional Moroccan café located in Rabat's medina. It serves a variety of hot and cold beverages, including coffee, tea, and Moroccan mint tea, as well as Moroccan pastries and snacks, in a charming and authentic atmosphere."
+    },
+    {
+      "id": 31,
+      "location": {
+        "latitude": 34.023716,
+        "longitude": -6.832951
+      },
+      "title": "Café Zitouna",
+      "description": "Café Zitouna is a cozy café located in Rabat's medina. It offers a selection of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as Moroccan pastries and snacks, in a relaxed and welcoming environment."
+    },
+    {
+      "id": 32,
+      "location": {
+        "latitude": 34.027482,
+        "longitude": -6.832145
+      },
+      "title": "La Croisette",
+      "description": "La Croisette is a beachfront restaurant located in Rabat's neighboring town of Salé. It specializes in seafood dishes, including grilled fish, shellfish, and seafood paella, served in a relaxed and casual atmosphere with views of the ocean."
+    },
+    {
+      "id": 33,
+      "location": {
+        "latitude": 34.021847,
+        "longitude": -6.833229
+      },
+      "title": "Café Maure des Oudayas",
+      "description": "Café Maure des Oudayas is a traditional Moroccan café located in the Kasbah of the Udayas in Rabat. It offers a selection of Moroccan teas, coffees, and pastries, as well as stunning views of the Kasbah's gardens and the Bouregreg River."
+    },
+    {
+      "id": 34,
+      "location": {
+        "latitude": 34.025573,
+        "longitude": -6.834724
+      },
+      "title": "Café Rimal",
+      "description": "Café Rimal is a cozy café located in Rabat's medina. It offers a variety of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as Moroccan pastries and snacks, in a relaxed and welcoming atmosphere."
+    },
+    {
+      "id": 35,
+      "location": {
+        "latitude": 34.021463,
+        "longitude": -6.833789
+      },
+      "title": "Dar Essalam",
+      "description": "Dar Essalam is a traditional Moroccan restaurant located in the Kasbah of the Udayas in Rabat. It offers a menu of classic Moroccan dishes, including tagines, couscous, and pastries, served in a historic riad setting with views of the Kasbah and the Bouregreg River."
+    },
+    {
+      "id": 36,
+      "location": {
+        "latitude": 34.026773,
+        "longitude": -6.833141
+      },
+      "title": "Café Kasbah",
+      "description": "Café Kasbah is a cozy café located in Rabat's medina. It offers a selection of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as Moroccan pastries and snacks, in a traditional Moroccan setting."
+    },
+    {
+      "id": 37,
+      "location": {
+        "latitude": 34.022082,
+        "longitude": -6.832781
+      },
+      "title": "Café Al Alia",
+      "description": "Café Al Alia is a traditional Moroccan café located in Rabat's medina. It serves a variety of hot and cold beverages, including coffee, tea, and Moroccan mint tea, as well as Moroccan pastries and snacks, in a cozy and inviting atmosphere."
+    },
+    {
+      "id": 38,
+      "location": {
+        "latitude": 34.024467,
+        "longitude": -6.834906
+      },
+      "title": "Le Grand Café Maure",
+      "description": "Le Grand Café Maure is a traditional Moroccan café located in Rabat's medina. It offers a selection of Moroccan teas, coffees, and pastries, as well as panoramic views of the Kasbah of the Udayas and the Bouregreg River."
+    },
+    {
+      "id": 39,
+      "location": {
+        "latitude": 34.025912,
+        "longitude": -6.833422
+      },
+      "title": "Café Diwan",
+      "description": "Café Diwan is a cozy café located in Rabat's medina. It offers a selection of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as Moroccan pastries and snacks, in a relaxed and welcoming atmosphere."
+    },
+    {
+      "id": 40,
+      "location": {
+        "latitude": 34.024196,
+        "longitude": -6.833870
+      },
+      "title": "Café des Oudayas",
+      "description": "Café des Oudayas is a traditional Moroccan café located in the Kasbah of the Udayas in Rabat. It offers a selection of Moroccan teas, coffees, and pastries, as well as panoramic views of the Kasbah's gardens and the Atlantic Ocean."
+    },
+    {
+      "id": 41,
+      "location": {
+        "latitude": 34.022962,
+        "longitude": -6.832329
+      },
+      "title": "Café du Coin",
+      "description": "Café du Coin is a cozy café located in Rabat's medina. It serves a variety of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as Moroccan pastries and snacks, in a relaxed and friendly atmosphere."
+    },
+    {
+      "id": 42,
+      "location": {
+        "latitude": 34.023588,
+        "longitude": -6.832660
+      },
+      "title": "Café Zitouna",
+      "description": "Café Zitouna is a traditional Moroccan café located in Rabat's medina. It offers a selection of Moroccan teas, coffees, and pastries, as well as panoramic views of the medina's winding streets and historic landmarks."
+    },
+    {
+      "id": 43,
+      "location": {
+        "latitude": 34.024685,
+        "longitude": -6.833062
+      },
+      "title": "Café Tijani",
+      "description": "Café Tijani is a cozy café located in Rabat's medina. It serves a variety of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as Moroccan pastries and snacks, in a relaxed and welcoming atmosphere."
+    },
+    {
+      "id": 44,
+      "location": {
+        "latitude": 34.025384,
+        "longitude": -6.833904
+      },
+      "title": "Le Jardin des Oudayas",
+      "description": "Le Jardin des Oudayas is a traditional Moroccan café located in the Kasbah of the Udayas in Rabat. It offers a selection of Moroccan teas, coffees, and pastries, as well as panoramic views of the Kasbah's gardens and the Bouregreg River."
+    },
+    {
+      "id": 45,
+      "location": {
+        "latitude": 34.024802,
+        "longitude": -6.834455
+      },
+      "title": "Café Arghan",
+      "description": "Café Arghan is a cozy café located in Rabat's medina. It offers a variety of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as Moroccan pastries and snacks, in a relaxed and welcoming atmosphere."
+    },
+    {
+      "id": 46,
+      "location": {
+        "latitude": 34.023273,
+        "longitude": -6.832745
+      },
+      "title": "Café Maure",
+      "description": "Café Maure is a traditional Moroccan café located in the Kasbah of the Udayas in Rabat. It offers a selection of Moroccan teas, coffees, and pastries, as well as stunning views of the Kasbah's gardens and the Bouregreg River."
+    },
+    {
+      "id": 47,
+      "location": {
+        "latitude": 34.021872,
+        "longitude": -6.833331
+      },
+      "title": "Café des Artistes",
+      "description": "Café des Artistes is a cozy café located in Rabat's medina. It offers a selection of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as Moroccan pastries and snacks, in a relaxed and artistic atmosphere."
+    },
+    {
+      "id": 48,
+      "location": {
+        "latitude": 34.022412,
+        "longitude": -6.832607
+      },
+      "title": "Café Marhaba",
+      "description": "Café Marhaba is a traditional Moroccan café located in Rabat's medina. It offers a selection of Moroccan teas, coffees, and pastries, as well as panoramic views of the medina's winding streets and historic landmarks."
+    },
+    {
+      "id": 49,
+      "location": {
+        "latitude": 34.021504,
+        "longitude": -6.833564
+      },
+      "title": "Café Annajah",
+      "description": "Café Annajah is a cozy café located in Rabat's medina. It serves a variety of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as Moroccan pastries and snacks, in a relaxed and welcoming atmosphere."
+    },
+    {
+      "id": 50,
+      "location": {
+        "latitude": 34.021769,
+        "longitude": -6.832874
+      },
+      "title": "Café Tresor",
+      "description": "Café Tresor is a cozy café located in Rabat's medina. It offers a variety of hot and cold beverages, including coffee, tea, and fresh fruit juices, as well as Moroccan pastries and snacks, in a relaxed and welcoming atmosphere."
+    }
+  ],
+  "musicVenues": [
+    {
+        "id": 51,
+        "location": {
+            "latitude": 34.021547,
+            "longitude": -6.832878
+        },
+        "title": "Jazz au Chellah Festival",
+        "description": "The Jazz au Chellah Festival is an annual music event held in the historic Chellah necropolis in Rabat. It showcases a diverse lineup of jazz musicians from Morocco and around the world, attracting music enthusiasts to enjoy live performances in a unique setting."
+    },
+    {
+        "id": 52,
+        "location": {
+            "latitude": 34.019198,
+            "longitude": -6.833318
+        },
+        "title": "Megarama Cinema",
+        "description": "Megarama Cinema is a popular entertainment venue in Rabat, offering a variety of films including Hollywood blockbusters, independent films, and international cinema. It provides a modern cinematic experience for moviegoers in the city."
+    },
+    {
+        "id": 53,
+        "location": {
+            "latitude": 34.020115,
+            "longitude": -6.826864
+        },
+        "title": "Riad Kalaa",
+        "description": "Riad Kalaa is a charming boutique hotel located in the heart of Rabat's medina. In addition to its accommodation, Riad Kalaa hosts regular live music events featuring local and international musicians, offering guests and visitors an intimate and cultural experience."
+    },
+    {
+        "id": 54,
+        "location": {
+            "latitude": 34.021864,
+            "longitude": -6.832579
+        },
+        "title": "Jardin d'Essais Botaniques",
+        "description": "Jardin d'Essais Botaniques, or the Botanical Gardens, is a picturesque park in Rabat known for its lush greenery and serene atmosphere. It occasionally hosts outdoor music concerts and performances, providing a delightful blend of nature and music for visitors."
+    },
+    {
+        "id": 55,
+        "location": {
+            "latitude": 34.025691,
+            "longitude": -6.830198
+        },
+        "title": "Dahli Restaurant & Lounge",
+        "description": "Dahli Restaurant & Lounge is an upscale dining establishment located in the Agdal district of Rabat. It hosts occasional live music performances, complementing its gourmet cuisine with a touch of musical entertainment for guests to enjoy."
+    },
+    {
+        "id": 56,
+        "location": {
+            "latitude": 34.020928,
+            "longitude": -6.836759
+        },
+        "title": "La Fibule",
+        "description": "La Fibule is a cozy restaurant and tea house situated in the heart of Rabat's medina. It features live music evenings showcasing traditional Moroccan music and performances, allowing guests to immerse themselves in the local culture while savoring delicious Moroccan cuisine."
+    },
+    {
+        "id": 57,
+        "location": {
+            "latitude": 34.019382,
+            "longitude": -6.826982
+        },
+        "title": "Villa Diyafa",
+        "description": "Villa Diyafa is an elegant boutique hotel located in the Souissi district of Rabat. It hosts occasional music nights featuring talented local musicians, providing guests with an upscale and cultural entertainment experience."
+    },
+    {
+        "id": 58,
+        "location": {
+            "latitude": 34.023762,
+            "longitude": -6.832722
+        },
+        "title": "Café des Arts",
+        "description": "Café des Arts is a trendy café and art space located in the heart of Rabat. In addition to its art exhibitions, Café des Arts hosts live music performances, creating a vibrant and creative atmosphere for patrons to enjoy."
+    },
+    {
+        "id": 59,
+        "location": {
+            "latitude": 34.024780,
+            "longitude": -6.831154
+        },
+        "title": "Dar Naji",
+        "description": "Dar Naji is a charming riad located in the medina of Rabat. It occasionally hosts intimate music gatherings featuring local musicians, allowing guests to experience the soulful rhythms of Moroccan music in a traditional Moroccan setting."
+    },
+    {
+        "id": 60,
+        "location": {
+            "latitude": 34.019887,
+            "longitude": -6.833127
+        },
+        "title": "Madrassa Jazz Club",
+        "description": "Madrassa Jazz Club is a hidden gem located in the medina of Rabat. It hosts regular jazz performances in a historic setting, attracting both locals and tourists seeking an authentic and memorable music experience."
+    },
+    {
+        "id": 61,
+        "location": {
+            "latitude": 34.026559,
+            "longitude": -6.832008
+        },
+        "title": "Café Renaissance",
+        "description": "Café Renaissance is a charming café located in the heart of Rabat's medina. It hosts regular music nights featuring local musicians, offering visitors a cozy and intimate setting to enjoy live music performances."
+    },
+    {
+        "id": 62,
+        "location": {
+            "latitude": 34.023462,
+            "longitude": -6.832582
+        },
+        "title": "The View Rooftop Bar",
+        "description": "The View Rooftop Bar is a rooftop bar offering panoramic views of Rabat's skyline and historic landmarks. It hosts occasional live music events, providing guests with an elevated experience of music and cityscape."
+    },
+    {
+        "id": 63,
+        "location": {
+            "latitude": 34.020218,
+            "longitude": -6.836682
+        },
+        "title": "Café Clock",
+        "description": "Café Clock is a cultural hub located in the Kasbah of the Udayas in Rabat. It hosts diverse music performances, including traditional Moroccan music, fusion, and world music, attracting both locals and tourists."
+    },
+    {
+        "id": 64,
+        "location": {
+            "latitude": 34.027961,
+            "longitude": -6.831789
+        },
+        "title": "Le Grand Comptoir",
+        "description": "Le Grand Comptoir is a stylish brasserie located in the Agdal district of Rabat. It features live music nights with a repertoire ranging from jazz and blues to pop and rock, providing guests with a vibrant and sophisticated ambiance."
+    },
+    {
+        "id": 65,
+        "location": {
+            "latitude": 34.024937,
+            "longitude": -6.832116
+        },
+        "title": "La Fête Musicale",
+        "description": "La Fête Musicale is an annual music festival held in Rabat, showcasing a diverse lineup of local and international artists. It celebrates various music genres, including jazz, classical, contemporary, and world music, attracting music enthusiasts from around the world."
+    },
+    {
+        "id": 66,
+        "location": {
+            "latitude": 34.018881,
+            "longitude": -6.835802
+        },
+        "title": "Le Rio",
+        "description": "Le Rio is a popular nightclub located near Rabat's beachfront. It features live music performances, DJ sets, and themed parties, offering guests a lively and energetic nightlife experience in the heart of the city."
+    },
+    {
+        "id": 67,
+        "location": {
+            "latitude": 34.025117,
+            "longitude": -6.831677
+        },
+        "title": "Le Diner Spectacle",
+        "description": "Le Diner Spectacle is a dinner theater experience located in Rabat's city center. It combines gourmet dining with live music and theatrical performances, providing guests with an entertaining and immersive cultural experience."
+    },
+    {
+        "id": 68,
+        "location": {
+            "latitude": 34.021662,
+            "longitude": -6.832811
+        },
+        "title": "Café du Cinéma",
+        "description": "Café du Cinéma is a cozy café located near Rabat's cinema district. It hosts occasional live music evenings featuring local bands and solo artists, creating a laid-back and artistic atmosphere for patrons to enjoy."
+    },
+    {
+        "id": 69,
+        "location": {
+            "latitude": 34.018972,
+            "longitude": -6.829527
+        },
+        "title": "Piano Bar Rabat",
+        "description": "Piano Bar Rabat is a sophisticated lounge bar located in the heart of Rabat. It features live piano performances and jazz evenings, offering guests an elegant and refined ambiance to unwind and enjoy quality music."
+    },
+    {
+        "id": 70,
+        "location": {
+            "latitude": 34.024619,
+            "longitude": -6.831519
+        },
+        "title": "Le Babylone",
+        "description": "Le Babylone is a popular nightclub located in Rabat's Agdal district. It hosts lively music nights with a variety of music genres, including house, hip-hop, and reggaeton, providing guests with an energetic and dynamic nightlife experience."
+    },
+    {
+        "id": 71,
+        "location": {
+            "latitude": 34.022173,
+            "longitude": -6.828468
+        },
+        "title": "The Music Box",
+        "description": "The Music Box is a live music venue located in Rabat's city center. It showcases a mix of local and touring bands, solo artists, and DJs, offering guests a diverse range of music genres, from indie and alternative to electronic and experimental."
+    },
+    {
+        "id": 72,
+        "location": {
+            "latitude": 34.026911,
+            "longitude": -6.829366
+        },
+        "title": "Café Biladi",
+        "description": "Café Biladi is a traditional café situated near Rabat's central market. It occasionally hosts music nights featuring traditional Moroccan music, allowing guests to experience authentic local rhythms and melodies in a relaxed and friendly atmosphere."
+    },
+    {
+        "id": 73,
+        "location": {
+            "latitude": 34.023447,
+            "longitude": -6.835287
+        },
+        "title": "Le Vintage",
+        "description": "Le Vintage is a trendy bar and lounge located in Rabat's modern district. It hosts live music events, DJ nights, and karaoke sessions, providing guests with an eclectic entertainment experience in a stylish and contemporary setting."
+    },
+    {
+        "id": 74,
+        "location": {
+            "latitude": 34.019576,
+            "longitude": -6.833675
+        },
+        "title": "Le Petit Cornichon",
+        "description": "Le Petit Cornichon is a cozy wine bar and bistro located in Rabat's medina. It occasionally features live music performances, wine tastings, and themed events, offering guests a laid-back and intimate space to enjoy music and good company."
+    }
+],
+"artInstallations": [
+  {
+    "id": 75,
+    "location": {
+      "latitude": 34.020833,
+      "longitude": -6.836237
+    },
+    "title": "Mohammed VI Museum of Modern and Contemporary Art",
+    "description": "The Mohammed VI Museum of Modern and Contemporary Art is one of the leading art institutions in Morocco. It features a diverse collection of contemporary artworks, including paintings, sculptures, and installations."
+  },
+  {
+    "id": 76,
+    "location": {
+      "latitude": 34.024462,
+      "longitude": -6.824578
+    },
+    "title": "Street Art Murals in Medina",
+    "description": "The medina of Rabat is adorned with vibrant street art murals created by local and international artists. These colorful artworks add character to the narrow alleys and walls of the old city, showcasing Rabat's thriving art scene."
+  },
+  {
+    "id": 77,
+    "location": {
+      "latitude": 34.022642,
+      "longitude": -6.836588
+    },
+    "title": "Gallery Mohamed El Fassi",
+    "description": "Gallery Mohamed El Fassi is a contemporary art gallery located in the heart of Rabat. It exhibits works by emerging and established Moroccan artists, contributing to the cultural landscape of the city."
+  },
+  {
+    "id": 78,
+    "location": {
+      "latitude": 34.025378,
+      "longitude": -6.830842
+    },
+    "title": "Musée Belghazi",
+    "description": "Musée Belghazi is a private museum in Rabat showcasing the extensive collection of Dr. Mohamed Belghazi. It houses Moroccan and Islamic art, including ceramics, textiles, and calligraphy."
+  },
+  {
+    "id": 79,
+    "location": {
+      "latitude": 34.029149,
+      "longitude": -6.833672
+    },
+    "title": "The National Theatre Mohammed V",
+    "description": "The National Theatre Mohammed V is a prominent cultural venue in Rabat, hosting theatrical performances, concerts, and other artistic events. Its modern architecture and vibrant programming contribute to Rabat's cultural vitality."
+  },
+  {
+    "id": 80,
+    "location": {
+      "latitude": 34.025475,
+      "longitude": -6.830576
+    },
+    "title": "La Villa des Arts",
+    "description": "La Villa des Arts is an art gallery and cultural space housed in a historic villa in Rabat. It features a permanent collection of Moroccan art from the 20th century to the present, as well as temporary exhibitions highlighting diverse artistic practices and themes."
+  },
+  {
+    "id": 81,
+    "location": {
+      "latitude": 34.021974,
+      "longitude": -6.835683
+    },
+    "title": "Atelier de Calligraphie Hassan II",
+    "description": "Atelier de Calligraphie Hassan II is a workshop and gallery dedicated to the art of Arabic calligraphy. Located in the heart of Rabat's medina, it offers classes, demonstrations, and exhibitions showcasing the beauty and tradition of calligraphic art."
+  },
+  {
+    "id": 82,
+    "location": {
+      "latitude": 34.024814,
+      "longitude": -6.835254
+    },
+    "title": "Mohamed Melehi Art Space",
+    "description": "Mohamed Melehi Art Space is a contemporary art gallery dedicated to the work of Moroccan artist Mohamed Melehi. It features paintings, prints, and sculptures that reflect Melehi's exploration of color, form, and abstraction in Moroccan art."
+  }
+],
+"historicalSites": [
+  {
+    "id": 83,
+    "location": {
+      "latitude": 34.020882,
+      "longitude": -6.836349
+    },
+    "title": "Kasbah of the Udayas",
+    "description": "The Kasbah of the Udayas is a fortress located at the mouth of the Bou Regreg river in Rabat, Morocco. It was built during the Almohad dynasty in the 12th century."
+  },
+  {
+    "id": 84,
+    "location": {
+      "latitude": 34.019493,
+      "longitude": -6.832037
+    },
+    "title": "Hassan Tower",
+    "description": "The Hassan Tower is the minaret of an incomplete mosque in Rabat, Morocco. It was intended to be the largest minaret in the world, along with the mosque, but construction was abandoned in 1199."
+  },
+  {
+    "id": 85,
+    "location": {
+      "latitude": 34.020069,
+      "longitude": -6.831385
+    },
+    "title": "Chellah Necropolis",
+    "description": "Chellah or Sala Colonia is a necropolis and complex of ancient Roman Mauretania Tingitana and medieval ruins at the outskirts of Rabat, Morocco."
+  },
+  {
+    "id": 86,
+    "location": {
+      "latitude": 34.025947,
+      "longitude": -6.819352
+    },
+    "title": "Royal Palace of Rabat",
+    "description": "The Royal Palace of Rabat is the official residence of the King of Morocco. It is located in the heart of the city and serves as the primary residence for official functions and ceremonies."
+  },
+  {
+    "id": 87,
+    "location": {
+      "latitude": 34.020906,
+      "longitude": -6.832362
+    },
+    "title": "Kasbah des Oudaias Gardens",
+    "description": "The Kasbah des Oudaias Gardens are beautiful gardens located within the Kasbah of the Udayas. They offer stunning views of the Bou Regreg river and the Atlantic Ocean."
+  },
+  {
+    "id": 88,
+    "location": {
+      "latitude": 34.025074,
+      "longitude": -6.838471
+    },
+    "title": "Mohammed V Mausoleum",
+    "description": "The Mohammed V Mausoleum is a mausoleum located in Rabat, Morocco. It contains the tombs of King Mohammed V and his two sons, King Hassan II and Prince Abdallah."
+  },
+  {
+    "id": 89,
+    "location": {
+      "latitude": 34.021211,
+      "longitude": -6.836052
+    },
+    "title": "Andalusian Gardens",
+    "description": "The Andalusian Gardens, also known as the Jardin Andalous, are picturesque gardens located in the Kasbah of the Udayas. They feature traditional Andalusian architecture and offer a serene atmosphere."
+  },
+  {
+    "id": 90,
+    "location": {
+      "latitude": 34.021806,
+      "longitude": -6.830663
+    },
+    "title": "Bab Rouah",
+    "description": "Bab Rouah is one of the ancient gates of Rabat, originally built during the Almohad dynasty. It serves as a historic landmark and entrance to the old medina, preserving the city's architectural heritage."
+  }
+]
+}

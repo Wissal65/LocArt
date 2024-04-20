@@ -1,0 +1,592 @@
+{
+    "historicalSites": [
+        {
+            "id": 1,
+            "location": {
+                "latitude": 34.028221819602265,
+                "longitude": -6.83342272883641
+            },
+            "title": "Kasbah of the Udayas",
+            "description": "The Kasbah of the Udayas is a fortress located at the mouth of the Bou Regreg river in Rabat, Morocco. It was built during the Almohad dynasty in the 12th century.",
+            "image": "udaya.png"
+            
+        },
+        {
+            "id": 2,
+            "location": {
+                "latitude": 34.02310806866947,
+                "longitude": -6.8225426351723115
+            },
+            "title": "Hassan Tower",
+            "description": "The Hassan Tower is the minaret of an incomplete mosque in Rabat, Morocco. It was intended to be the largest minaret in the world, along with the mosque, but construction was abandoned in 1199.",
+            "image": "hassan.png"
+        },
+        {
+            "id": 3,
+            "location": {
+                "latitude": 34.00683492944435,
+                "longitude": -6.823201000000552
+            },
+            "title": "Chellah Necropolis",
+            "description": "Chellah or Sala Colonia is a necropolis and complex of ancient Roman Mauretania Tingitana and medieval ruins at the outskirts of Rabat, Morocco.",
+            "image": "chellah.png"
+        },
+        {
+            "id": 4,
+            "location": {
+                "latitude": 34.007871929372456,
+                "longitude": -6.832270728835198
+            },
+            "title": "Royal Palace of Rabat",
+            "description": "The Royal Palace of Rabat is the official residence of the King of Morocco. It is located in the heart of the city and serves as the primary residence for official functions and ceremonies.",
+            "image": "royal.png"
+        },
+        {
+            "id": 5,
+            "location": {
+                "latitude": 34.03206200228237,
+                "longitude": -6.835876463458533
+            },
+            "title": "Kasbah des Oudaias Gardens",
+            "description": "The Kasbah des Oudaias Gardens are beautiful gardens located within the Kasbah of the Udayas. They offer stunning views of the Bou Regreg river and the Atlantic Ocean.",
+            "image": "garden.png"
+        },
+        {
+            "id": 6,
+            "location": {
+                "latitude": 34.0202349191,
+                "longitude": -6.81983172066
+            },
+            "title": "Mohammed V Mausoleum",
+            "description": "The Mohammed V Mausoleum is a mausoleum located in Rabat, Morocco. It contains the tombs of King Mohammed V and his two sons, King Hassan II and Prince Abdallah.",
+            "image": "mausoleum.png"
+        },
+        {
+            "id": 7,
+            "location": {
+                "latitude": 34.032354437404706,
+                "longitude": -6.837222637368313
+            },
+            "title": "Andalusian Gardens",
+            "description": "The Andalusian Gardens, also known as the Jardin Andalous, are picturesque gardens located in the Kasbah of the Udayas. They feature traditional Andalusian architecture and offer a serene atmosphere.",
+            "image": "andalousian.png"
+        },
+        {
+            "id": 8,
+            "location": {
+                "latitude": 34.01299982226068,
+                "longitude": -6.838688000000587
+            },
+            "title": "Bab Rouah",
+            "description": "Bab Rouah is one of the ancient gates of Rabat, originally built during the Almohad dynasty. It serves as a historic landmark and entrance to the old medina, preserving the city's architectural heritage.",
+            "image": "bab.png"
+        },
+        {
+            "id": 9,
+            "location": {
+                "latitude": 34.03399101446705,
+                "longitude": -6.819612805656959
+            },
+            "title": "Bab Lamrissa",
+            "description": "Bab Lamrissa is a former maritime gate, it is one of the main gates of the current wall of the medina of Salé and is the most imposing.",
+            "image": "lamrisa.png"
+        },
+        {
+            "id": 10,
+            "location": {
+                "latitude": 34.03997431754942,
+                "longitude": -6.827238000002438
+            },
+            "title": "Madrasa of Abu al-Hasan",
+            "description": "The Madrasa of Abu al-Hasan, also referred to as the Marinid Madrasa (of Salé), is a medieval madrasa located within the old city of Salé, Morocco.",
+            "image": "abu.png"
+        },
+        {
+            "id": 11,
+            "location": {
+                "latitude": 34.036469,
+                "longitude": -6.817901
+            },
+            "title": "Bab Lakhmiss",
+            "description": "Bab Lakhmiss is a city gate in Sale, Morocco. Bab Lakhmiss is situated nearby to the post office Sale Medina and Salé-City railway station.",
+            "image": "lakhmiss.png"
+        }
+    ],
+    "artInstallations": [
+        {
+            "id": 12,
+            "location": {
+                "latitude": 34.01523381473443,
+                "longitude": -6.832846171966679
+            },
+            "title": "Mohammed VI Museum of Modern and Contemporary Art",
+            "description": "The Mohammed VI Museum of Modern and Contemporary Art is one of the leading art institutions in Morocco. It features a diverse collection of contemporary artworks.",
+            "image": "museum.png"
+        },
+        {
+            "id": 13,
+            "location": {
+                "latitude": 34.01377534811725,
+                "longitude": -6.8315587116395875
+            },
+            "title": "Museum of History and Civilizations",
+            "description": "The Museum of History and Civilizations is an archaeological museum in Rabat, Morocco. Opened in 1932, it contains the most extensive collection of archaeological artifacts found in the country.",
+            "image": "civil.png"
+        },
+        {
+            "id": 14,
+            "location": {
+                "latitude": 34.03006994002966,
+                "longitude": -6.835582494113538
+            },
+            "title": "The Oudayas Museum",
+            "description": "The Oudayas Museum is one of the oldest public museums in Morocco, along with the Batha Museum in Fez. The Oudayas Museum contains one of the largest museum collections in the country.",
+            "image": "desoudayas.png"
+        },
+        {
+            "id": 15,
+            "location": {
+                "latitude": 34.01991045176449,
+                "longitude": -6.834090295012061
+            },
+            "title": "Gallery Mohamed El Fassi",
+            "description": "Gallery Mohamed El Fassi is a contemporary art gallery located in the heart of Rabat. It exhibits works by emerging and established Moroccan artists.",
+            "image": "mohammed.png"
+        },
+        {
+            "id": 16,
+            "location": {
+                "latitude": 34.13945,
+                "longitude": -6.72516
+            },
+            "title": "Musée Belghazi",
+            "description": "Musée Belghazi is a private museum in Rabat showcasing the extensive collection of Dr. Mohamed Belghazi.",
+            "image": "belghazi.png"
+        },
+        {
+            "id": 17,
+            "location": {
+                "latitude": 34.019711368351125,
+                "longitude": -6.833196566634115
+            },
+            "title": "The National Theatre Mohammed V",
+            "description": "The National Theatre Mohammed V is a prominent cultural venue in Rabat, hosting theatrical performances, concerts, and other artistic events. Its modern architecture and vibrant programming contribute to Rabat's cultural vitality.",
+            "image": "national.png"
+        },
+        {
+            "id": 18,
+            "location": {
+                "latitude": 34.01249514244904,
+                "longitude": -6.830867271163328
+            },
+            "title": "Villa des Arts",
+            "description": "Villa des Arts is an art gallery and cultural space housed in a historic villa in Rabat. It features a permanent collection of Moroccan art from the 20th century to the present.",
+            "image": "villa.png"
+        }
+    ],
+    "musicVenues": [
+        {
+            "id": 19,
+            "location": {
+                "latitude": 34.0069209294378,
+                "longitude": -6.821652500001619
+            },
+            "title": "Jazz au Chellah Festival",
+            "description": "The Jazz au Chellah Festival is an annual music event held in the historic Chellah necropolis in Rabat. It showcases a diverse lineup of jazz musicians from Morocco and around the world.",
+            "image": "jazz.png"
+        },
+        {
+            "id": 20,
+            "location": {
+                "latitude": 34.02786981966463,
+                "longitude": -6.837475000000808
+            },
+            "title": "Riad Kalaa",
+            "description": "Riad Kalaa is a charming boutique hotel located in the heart of Rabat's medina. In addition to its accommodation, Riad Kalaa hosts regular live music events featuring local and international musicians.",
+            "image": "riad.png"
+        },
+        {
+            "id": 21,
+            "location": {
+                "latitude": 34.00901071662349,
+                "longitude": -6.846724000000933
+            },
+            "title": "Jardin d'Essais Botaniques",
+            "description": "Jardin d'Essais Botaniques, or the Botanical Gardens, is a picturesque park in Rabat known for its lush greenery and serene atmosphere. It occasionally hosts outdoor music concerts and performances.",
+            "image": "botaniques.png"
+        },
+        {
+            "id": 22,
+            "location": {
+                "latitude": 34.03333702197513,
+                "longitude": -6.829574625584371
+            },
+            "title": "Fairmont La Marina",
+            "description": "Fairmont La Marina restaurant in Rabat offers a delightful dining experience accompanied by live music, adding to the ambiance and charm of the venue. Situated within the luxurious Fairmont La Marina Hotel. ",
+            "image": "lamarina.png"
+        },
+        {
+            "id": 23,
+            "location": {
+                "latitude": 34.01884384838169,
+                "longitude": -6.83608361231893
+            },
+            "title": "Casa José",
+            "description": "Casa José is a renowned restaurant located in Rabat, Morocco, known for its combination of fine dining and live music entertainment. The restaurant offers a diverse menu featuring Spanish and Mediterranean cuisine.",
+            "image": "casa.png"
+        },
+        {
+            "id": 24,
+            "location": {
+                "latitude": 33.943925058106515,
+                "longitude": -6.820693004742992
+            },
+            "title": "Villa Diyafa",
+            "description": "Villa Diyafa is an elegant boutique hotel located in the Souissi district of Rabat. It hosts occasional music nights featuring talented local musicians, providing guests with an upscale and cultural entertainment experience.",
+            "image": "diyafa.png"
+        },
+        {
+            "id": 25,
+            "location": {
+                "latitude": 34.01939363839723,
+                "longitude": -6.829752931084499
+            },
+            "title": "The Jazz Bar",
+            "description": "The Jazz Bar is a hidden gem located in the medina of Rabat. It hosts regular jazz performances in a historic setting, attracting both locals and tourists seeking an authentic and memorable music experience.",
+            "image": "the.png"
+        },
+        {
+            "id": 26,
+            "location": {
+                "latitude": 34.020087465320145,
+                "longitude": -6.837139581207055
+            },
+            "title": "Cinéma Renaissance",
+            "description": "Cinéma Renaissance in Rabat is a renowned cinema venue known for showcasing a diverse range of films from both Moroccan and international cinema. While the primary focus of Cinéma Renaissance is on cinematic experiences.",
+            "image": "renaissance.png"
+        },
+        {
+            "id": 27,
+            "location": {
+                "latitude": 33.95496649311811,
+                "longitude": -6.8673828902289245
+            },
+            "title": "The View Hotel",
+            "description": "The View Hotel occasionally hosts musical performances featuring local artists or bands. These music events provide guests with an opportunity to enjoy captivating melodies and rhythms while taking in the breathtaking vistas from the hotel's vantage points.",
+            "image": "view.png"
+        },
+        {
+            "id": 28,
+            "location": {
+                "latitude": 34.01903597641099,
+                "longitude": -6.836187134638095
+            },
+            "title": "Le Grand Comptoir",
+            "description": "Le Grand Comptoir is a stylish brasserie located in the Agdal district of Rabat. It features live music nights with a repertoire ranging from jazz and blues to pop and rock, providing guests with a vibrant and sophisticated ambiance.",
+            "image": "comptoir.png"
+        },
+        {
+            "id": 29,
+            "location": {
+                "latitude": 34.020365974252584,
+                "longitude": -6.833300017196478
+            },
+            "title": "La Fête Musicale",
+            "description": "La Fête Musicale is an annual music festival held in Rabat, showcasing a diverse lineup of local and international artists. It celebrates various music genres, including jazz, classical, contemporary, and world music, attracting music enthusiasts from around the world.",
+            "image": "fete.png"
+        },
+        {
+            "id": 30,
+            "location": {
+                "latitude": 34.02842627420142,
+                "longitude": -6.8227760908744415
+            },
+            "title": "Al Marsa Restaurant",
+            "description": "Al Marsa is a renowned seafood restaurant situated along the Rabat waterfront. While it primarily specializes in serving fresh seafood dishes, including grilled fish, seafood tagines, and Moroccan mezze, it occasionally features live music performances to enhance the dining experience. ",
+            "image": "marsa.png"
+        },
+        {
+            "id": 31,
+            "location": {
+                "latitude": 34.03200587223901,
+                "longitude": -6.829535899568384
+            },
+            "title": "Le Dahlia",
+            "description": "While enjoying a meal at Le Dahlia, guests can sometimes be treated to live music, adding an extra layer of enjoyment to their dining experience. Whether it's traditional Moroccan melodies or contemporary tunes, the music enhances the atmosphere, making Le Dahlia a popular destination for both food and music enthusiasts in Rabat.",
+            "image": "dahlia.png"
+        },
+        {
+            "id": 32,
+            "location": {
+                "latitude": 34.03249700355751,
+                "longitude": -6.829848148915488
+            },
+            "title": "Le Deck",
+            "description": "Le Deck is a sophisticated restaurant located in Rabat, offering a unique culinary experience accompanied by occasional live music performances. Situated in an elegant setting with contemporary decor, Le Deck specializes in gourmet cuisine inspired by both Moroccan and international flavors. ",
+            "image": "deck.png"
+        },
+        {
+            "id": 33,
+            "location": {
+                "latitude": 33.944219980836365,
+                "longitude": -6.818882265900243
+            },
+            "title": "Le Safran",
+            "description": "Le Safran is a distinguished restaurant located in Rabat, known for its exquisite Moroccan cuisine and sophisticated ambiance. While it doesn't specifically advertise live music as part of its offerings, it occasionally hosts special events or evenings featuring local musicians.",
+            "image": "safran.png"
+        },
+        {
+            "id": 34,
+            "location": {
+                "latitude": 33.99002773178452,
+                "longitude": -6.833808231282148
+            },
+            "title": "Le Vinart",
+            "description": "Le Vinart is a sophisticated restaurant located in Rabat, known for its exquisite culinary offerings and elegant ambiance. While it primarily focuses on providing a fine dining experience centered around French and international cuisine, it occasionally hosts live music events to elevate the atmosphere. ",
+            "image": "vinart.png"
+        },
+        {
+            "id": 35,
+            "location": {
+                "latitude": 33.992564617792226,
+                "longitude": -6.836110825176149
+            },
+            "title": "La scène OLM Souissi",
+            "description": "La Scène OLM Souissi is a prominent cultural venue located in Rabat, Morocco, known for hosting a variety of live performances, events, and concerts. Situated in the Souissi district, it serves as a vibrant hub for music, theater, dance, and other artistic endeavors.",
+            "image": "olm.png"
+        },
+        {
+            "id": 36,
+            "location": {
+                "latitude": 33.953415108340096,
+                "longitude": -6.88758268620407
+            },
+            "title": "Piano Bar Rabat",
+            "description": "Piano Bar Rabat is a sophisticated lounge bar located in Rabat Agdal. It features live piano performances and jazz evenings, offering guests an elegant and refined ambiance to unwind and enjoy quality music.",
+            "image": "piano.png"
+        }
+    ],
+        "culinaryHotspots": [
+            {
+                "id": 37,
+                "location": {
+                    "latitude": 34.02898956137791,
+                    "longitude": -6.832418941983292
+                },
+                "title": "Le Dhow Restaurant",
+                "description": "Le Dhow Restaurant is a unique dining venue set aboard a traditional Moroccan dhow boat on the Bouregreg River. It offers a memorable culinary experience with a menu featuring Moroccan and international cuisine, complemented by scenic views of Rabat's waterfront.",
+                "image": "dhow.png"
+            },
+            {
+                "id": 38,
+                "location": {
+                    "latitude": 34.02519298779448,
+                    "longitude": -6.842624690336834
+                },
+                "title": "Riad Meftaha",
+                "description": "Riad Meftaha is a charming traditional Moroccan guesthouse located in the heart of Rabat's medina. It offers guests a serene and authentic Moroccan experience with its beautifully decorated rooms, courtyard, and rooftop terrace. The riad's architecture reflects traditional Moroccan design. ",
+                "image": "meftaha.png"
+            },
+            {
+                "id": 39,
+                "location": {
+                    "latitude": 34.028669604331725,
+                    "longitude": -6.836972396417565
+                },
+                "title": "Riad Shaan",
+                "description": "Riad Shaan is a charming guesthouse located in the heart of Rabat's medina. This traditional Moroccan riad offers guests a serene retreat characterized by its authentic architecture and tranquil ambiance. The riad features beautifully decorated rooms and suites, adorned with intricate Moroccan design elements . ",
+                "image": "shaan.png"
+            },
+            {
+                "id": 40,
+                "location": {
+                    "latitude": 34.02698914447352,
+                    "longitude": -6.8394918809509875
+                },
+                "title": "Dar Mayssane",
+                "description": "Dar Mayssane is a charming guesthouse located in the heart of Rabat's medina. This traditional Moroccan riad offers a peaceful retreat away from the bustling city streets, with its serene courtyard adorned with lush greenery and colorful tiles. The guesthouse features beautifully decorated rooms that reflect the rich heritage and culture of Morocco. ",
+                "image": "mayssane.png"
+            },
+            {
+                "id": 41,
+                "location": {
+                    "latitude": 34.02423882029797,
+                    "longitude": -6.839647457673294
+                },
+                "title": "Dar Soufa",
+                "description": "Dar Soufa is a charming restaurant located in Rabat, offering a unique dining experience steeped in Moroccan culture and tradition. Nestled within the historic medina, Dar Soufa features a picturesque courtyard adorned with traditional Moroccan decor, creating a serene and inviting atmosphere for guests. The restaurant specializes in authentic Moroccan cuisine. ",
+                "image": "soufa.png"
+            },
+            {
+                "id": 42,
+                "location": {
+                    "latitude": 34.02746191380291,
+                    "longitude": -6.839122479207134
+                },
+                "title": "Euphoriad",
+                "description": "Euphoriad in Rabat is an electrifying nightlife destination that offers a unique blend of music, entertainment, and ambiance. With its vibrant atmosphere and pulsating beats, Euphoriad is a haven for party enthusiasts seeking an unforgettable experience in the heart of the city. ",
+                "image": "eupho.png"
+            },
+            {
+                "id": 43,
+                "location": {
+                    "latitude": 34.01794174423992,
+                    "longitude": -6.83510586914548
+                },
+                "title": "Le Petit Beur",
+                "description": "Le Petit Beur is a popular café and bakery situated in Rabat's city center. It offers a variety of pastries, sandwiches, and desserts, along with Moroccan tea and coffee, making it a favorite spot for locals and visitors alike to enjoy a casual meal or snack.",
+                "image": "petit.png"
+            },
+            {
+                "id": 44,
+                "location": {
+                    "latitude": 34.02817447640956,
+                    "longitude": -6.837623300781104
+                },
+                "title": "Le Dinarjat",
+                "description": "Le Dinarjat is a traditional Moroccan restaurant located in Rabat's Agdal district. It serves authentic Moroccan cuisine, including tagines, couscous, and pastilla, in a cozy and inviting atmosphere decorated with Moroccan handicrafts and artwork.",
+                "image": "dinarjat.png"
+            },
+            {
+                "id": 45,
+                "location": {
+                    "latitude": 34.02693681982552,
+                    "longitude": -6.839739999999949
+                },
+                "title": "Dar Rbatia",
+                "description": "Dar Rbatia is a traditional Moroccan restaurant located in Rabat's medina. It offers a menu of authentic Moroccan dishes, including tagines, couscous, and grilled meats, in a charming courtyard setting adorned with Moroccan decor.",
+                "image": "dar.png"
+            },
+            {
+                "id": 46,
+                "location": {
+                    "latitude": 34.024169237376825,
+                    "longitude": -6.835109567883279
+                },
+                "title": "Restaurant Le Ziryab",
+                "description": "Restaurant Le Ziryab is a cultural café and restaurant situated in Rabat's medina. It offers a fusion of Moroccan and Mediterranean cuisine, featuring dishes such as couscous, tajines, and mezze platters, as well as live music performances and cultural events.",
+                "image": "zriyab.png"
+            },
+            {
+                "id": 47,
+                "location": {
+                    "latitude": 34.00239373440169,
+                    "longitude": -6.846052397081479
+                },
+                "title": "Dar Naji Agdal",
+                "description": "Dar Naji is a traditional Moroccan restaurant located in Rabat's Agdal district. It specializes in serving authentic Moroccan cuisine, including tagines, couscous, and pastilla, in a cozy and inviting atmosphere adorned with Moroccan handicrafts and artwork. The restaurant provides guests with a taste of Moroccan culinary heritage.",
+                "image": "naji.png"
+            },
+            {
+                "id": 48,
+                "location": {
+                    "latitude": 34.0242258741487,
+                    "longitude": -6.844989333754029
+                },
+                "title": "Dauphin d'or",
+                "description": "Dauphin d'or is a seafood restaurant located near Rabat's marina. It specializes in fresh seafood dishes, including grilled fish, shellfish, and seafood paella, served in a casual yet elegant dining space with views of the harbor.",
+                "image": "dauphin.png"
+            },
+            {
+                "id": 49,
+                "location": {
+                    "latitude": 34.02560724870338,
+                    "longitude": -6.840209838583746
+                },
+                "title": "Dar El Karam Hôtel",
+                "description": "Dar El Karam Hotel is a charming accommodation nestled in the heart of Rabat, Morocco. This boutique hotel offers guests a cozy and intimate retreat with traditional Moroccan hospitality. The hotel features elegantly decorated rooms and suites adorned with local artwork and craftsmanship, providing a blend of comfort and authenticity.",
+                "image": "elKaram.png"
+            },
+            {
+                "id": 50,
+                "location": {
+                    "latitude": 34.01571202433675,
+                    "longitude": -6.832500385302978
+                },
+                "title": "Café Museum",
+                "description": "Café Museum is a popular coffeehouse located in Rabat, Morocco, known for its cultural ambiance and historical significance. Situated in the heart of the city, the café exudes an old-world charm with its vintage decor and nostalgic atmosphere. It serves as a gathering place for locals and tourists alike, offering a cozy setting to enjoy a variety of hot and cold beverages. ",
+                "image": "museumm.png"
+            },
+            {
+                "id": 51,
+                "location": {
+                    "latitude": 34.0143129289205,
+                    "longitude": -6.831752000001842
+                },
+                "title": "Helnan Chellah Hotel",
+                "description": "Helnan Chellah Hotel features a range of facilities including restaurants serving delicious cuisine, a fitness center, swimming pool, and meeting rooms for events and conferences. With its combination of traditional Moroccan hospitality and contemporary comforts.",
+                "image": "helnan.png"
+            },
+            {
+                "id": 52,
+                "location": {
+                    "latitude": 34.030879141266894,
+                    "longitude": -6.835034293175056
+                },
+                "title": "Café Maure du jardin des Oudayas",
+                "description": "Café Maure du jardin des Oudayas is a traditional Moroccan café located in Rabat's medina. It serves a variety of hot and cold beverages, including coffee, tea, and Moroccan mint tea, as well as Moroccan pastries and snacks, in a charming and authentic atmosphere.",
+                "image": "maure.png"
+            },
+            {
+                "id": 53,
+                "location": {
+                    "latitude": 34.017533802390446,
+                    "longitude": -6.827999964424578
+                },
+                "title": "Mgallery Le Diwan",
+                "description": "Mgallery Le Diwan Rabat is a prestigious hotel located in the heart of Rabat, Morocco. Nestled within the vibrant capital city, this upscale hotel offers a unique blend of modern luxury and Moroccan heritage. Boasting elegant and stylish accommodations, Le Diwan provides guests with a comfortable and refined stay.",
+                "image": "diwan.png"
+            },
+            {
+                "id": 54,
+                "location": {
+                    "latitude": 34.02256463817639,
+                    "longitude": -6.837638714298237
+                },
+                "title": "Café El Bahia",
+                "description": "Café El Bahia is a cozy café nestled in Rabat's vibrant medina. It offers a relaxed and inviting atmosphere where patrons can unwind and enjoy a variety of hot and cold beverages, including coffee, tea, and fresh fruit juices. Alongside these drinks, Café El Bahia serves a selection of Moroccan pastries and snacks. ",
+                "image": "bahia.png"
+            },
+            {
+                "id": 55,
+                "location": {
+                    "latitude": 34.028487701807606,
+                    "longitude": -6.8356201965384855
+                },
+                "title": "Hotel Dar El Kébira",
+                "description": "Hotel Dar El Kébira is a charming boutique hotel nestled within the historic medina of Rabat. It offers guests a unique blend of traditional Moroccan hospitality and modern comforts. The hotel's architecture reflects the rich heritage of the medina, with intricate tilework, ornate woodwork, and traditional Moroccan furnishings creating an authentic ambiance. ",
+                "image": "kebira.png"
+            },
+            {
+                "id": 56,
+                "location": {
+                    "latitude": 34.02958661609834,
+                    "longitude": -6.836936733814099
+                },
+                "title": "Dar Kika Salam By DKS",
+                "description": "Dar Kika Salam By DKS is a distinguished dining establishment located in Rabat, Morocco, renowned for its traditional Moroccan cuisine and elegant ambiance. Situated in a historic riad within the city's medina, Dar Kika Salam offers guests a unique culinary experience in a charming and intimate setting. The restaurant specializes in authentic Moroccan dishes. ",
+                "image": "kika.png"
+            },
+            {
+                "id": 57,
+                "location": {
+                    "latitude": 34.019097579940464,
+                    "longitude": -6.829974551626378
+                },
+                "title": "La Maison Arabe",
+                "description": "La Maison Arabe is a distinguished restaurant located in Rabat, offering a refined dining experience that celebrates Moroccan culinary traditions. Known for its elegant ambiance and impeccable service, La Maison Arabe specializes in authentic Moroccan cuisine, featuring an array of traditional dishes prepared with the finest ingredients and culinary expertise. ",
+                "image": "maison.png"
+            },
+            {
+                "id": 58,
+                "location": {
+                    "latitude": 33.9917804638235,
+                    "longitude": -6.829611091562953
+                },
+                "title": "Restaurant Al Warda",
+                "description": "Restaurant Al Warda is a delightful dining establishment located in Rabat, Morocco.  Al Warda offers a diverse menu featuring authentic dishes such as tagines, couscous, pastillas, and grilled meats. The restaurant prides itself on using fresh, locally sourced ingredients to create flavorful and aromatic dishes that showcase the rich culinary heritage of Morocco.",
+                "image": "warda.png"
+            }
+        ]
+    
+}
