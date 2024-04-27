@@ -9,11 +9,11 @@ export default function HomeScreen({ }) {
     <ImageBackground source={require('../assets/bg1.png')} style={styles.background}>
       <View style={styles.container}>
         <Image source={require('../assets/logo.png')} style={styles.logo} />
-        <Text style={styles.title}>Find Art</Text>
+        <Text style={styles.title}>LocArt</Text>
         <Text style={styles.subtitle}>Explore art near you!!</Text>
         <View style={styles.buttonsContainer}>
           <TouchableOpacity
-            style={[styles.button, { backgroundColor: '#ff9e1b' }]}
+            style={[styles.button, { backgroundColor: '#fb7c39' }]}
             onPress={() => navigation.navigate('SignUp')}
           >
             <Text style={[styles.buttonText, { color: 'white' }]}>Sign Up</Text>
@@ -22,13 +22,13 @@ export default function HomeScreen({ }) {
             style={[styles.button, { backgroundColor: '#ffffff', borderColor: '#ff9e1b' }]}
             onPress={() => navigation.navigate('Login')}
           >
-            <Text style={[styles.buttonText, { color: '#ff9e1b' }]}>Login</Text>
+            <Text style={[styles.buttonText, { color: '#fb7c39' }]}>Login</Text>
           </TouchableOpacity>
           <TouchableOpacity
             style={styles.button}
             onPress={() => navigation.navigate('Main', { screen: 'Map' })}
           >
-            <Text style={[styles.skipText, { color: '#ff9e1b' }]}>Skip for now </Text>
+            <Text style={[styles.skipText, { color: '#fb7c39' }]}>Skip for now </Text>
           </TouchableOpacity>
         </View>
       </View>
@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
   },
   logo: {
     width: 100,
-    height: 150,
+    height: 120,
   },
   title: {
     fontSize: 24,

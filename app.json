@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mainApp",
-    "slug": "mainApp",
+    "name": "my-new-project",
+    "slug": "my-new-project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,16 +15,23 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.salmaaa.mynewproject"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.salmaaa.mynewproject"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d0d8c1ad-bc70-4172-bb46-b1efea12bdc5"
+      }
     }
   }
 }
